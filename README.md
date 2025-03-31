@@ -10,3 +10,15 @@ This project detects fraudulent transactions using ML algorithms.
 
 ## 🚀 How to Run  
 - Clone this repository:  
+- Open `fraud_detection.ipynb` in Jupyter Notebook or Google Colab.  
+
+## 📊 Results  
+- Achieved **XX% accuracy** after hyperparameter tuning and ensemble learning.  
+
+## 🤖 Technologies Used  
+- Python (Pandas, Scikit-learn, TensorFlow)  
+- Google Colab  
+- GitHub  
+
+## 💡 Author  
+- **Your Name**  
