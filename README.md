@@ -23,4 +23,4 @@ This project detects fraudulent transactions using ML algorithms.
 - AWS EC2
 
 ## 💡 Author  
-- **Abhishek Reddy L**  
+- **Abhishek Reddy L/slug514**  
