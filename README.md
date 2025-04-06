@@ -6,19 +6,21 @@ This project detects fraudulent transactions using ML algorithms.
 2. Model Training  
 3. Hyperparameter Tuning  
 4. Ensemble Learning  
-5. Model Evaluation  
+5. Model Evaluation
+6. Deployment on AWS
 
 ## 🚀 How to Run  
 - Clone this repository:  
 - Open `fraud_detection.ipynb` in Jupyter Notebook or Google Colab.  
 
 ## 📊 Results  
-- Achieved **XX% accuracy** after hyperparameter tuning and ensemble learning.  
+- Achieved **99% accuracy** after hyperparameter tuning and ensemble learning.  
 
 ## 🤖 Technologies Used  
-- Python (Pandas, Scikit-learn, TensorFlow)  
+- Python (Pandas, Scikit-learn)  
 - Google Colab  
-- GitHub  
+- GitHub
+- AWS EC2
 
 ## 💡 Author  
-- **Your Name**  
+- **Abhishek Reddy L**  
